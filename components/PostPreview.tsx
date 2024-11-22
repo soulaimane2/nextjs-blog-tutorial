@@ -6,6 +6,9 @@ const PostPreview = (props: PostMetadata) => {
     <div
       className="border border-slate-300 p-4 rounded-md shadow-sm
     bg-white"
+    style={{
+      direction: "rtl"
+    }}
     >
       <p className="text-sm text-slate-400">{props.date}</p>
 

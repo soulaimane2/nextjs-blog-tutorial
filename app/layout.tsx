@@ -18,9 +18,9 @@ export default function RootLayout({
           alt={"logo"}
         />
         <Link href="/">
-          <h1 className="text-2xl text-white font-bold mt-4">Jack's Blog</h1>
+          <h1 className="text-2xl text-white font-bold mt-4">Soulaimane's Blog</h1>
         </Link>
-        <p className="text-slate-300">🤟 Welcome to my tech blog. 💻</p>
+        <p className="text-slate-300">🤟 Welcome to my blog. 💻</p>
       </div>
     </header>
   );
@@ -28,7 +28,7 @@ export default function RootLayout({
   const footer = (
     <footer>
       <div className="border-t border-slate-400 mt-12 py-6 text-center text-slate-400">
-        <h3>Designed by Pixegami</h3>
+        <h3>Designed by Soulaimane</h3>
       </div>
     </footer>
   );
