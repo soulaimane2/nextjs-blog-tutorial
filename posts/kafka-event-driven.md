@@ -7,7 +7,7 @@ date: "2024-11-22"
 <!-- # كيفاش نخدمو بـ Kafka و Node.js باش نبنيو Event-Driven Architecture -->
 فهاد l'article غادي نحاولوا نبنيو واحد Event-Driven system بسيط ب Node.JS و ،Kafka. ولكن قبل نشرحو خاص نعرفو شنو هي Event-Driven Architecture و شنو هي Kafka و شنو هوما Microservices.
 
-   > قبل مانبدا فهاد شرح نبغي نكوليك أنه من المستحب تكون عندك شي باركة ديال Docker و NodeJs ولكن مشي إلى ماكانوش هانية
+   > قبل مانبدا فهاد شرح نبغي نكوليك أنه من المستحب تكون عندك شي باركة ديال Docker و NodeJs ولكن  إلى ماكانوش هانية
 
 
 ## شنو هوما Microservices؟
