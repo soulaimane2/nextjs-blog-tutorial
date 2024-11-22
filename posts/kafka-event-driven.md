@@ -7,6 +7,9 @@ date: "2024-11-22"
 <!-- # كيفاش نخدمو بـ Kafka و Node.js باش نبنيو Event-Driven Architecture -->
 فهاد l'article غادي نحاولوا نبنيو واحد Event-Driven system بسيط ب Node.JS و ،Kafka. ولكن قبل نشرحو خاص نعرفو شنو هي Event-Driven Architecture و شنو هي Kafka و شنو هوما Microservices.
 
+   > قبل مانبدا فهاد شرح نبغي نكوليك أنه من المستحب تكون عندك شي باركة ديال Docker و NodeJs ولكن مشي إلى ماكانوش هانية
+
+
 ## شنو هوما Microservices؟
 
 ### تعريف:
@@ -233,7 +236,7 @@ Service1 غادا تكون هي ال producer او service لي غادا تصي�
 ![images/linked_list](/images/kafka/requestEnd.png)
 ![images/linked_list](/images/kafka/responseEnd.png)
 
-غادي نخلي ليكم Github Repo ديال هاد Tuto هنا.
+غادي نخلي ليكم Github Repo ديال هاد Tuto [هنا](https://github.com/soulaimane2/event-driven-dev).
 
 هادا ماكان فهاد tuto و لي عندو شي سؤال يخليه فال comments شكرا على وقتكم.
 
